@@ -80,10 +80,10 @@
           "time": "오후 08:33"
       },
       {
-          "content": "emo_hamboy_03", text that follows:';
-          "background-size": 100px !important;
-          "width": 100px !important;
-          "height": 100px !important;
+          "content": "emo_hamboy_03",
+          "background-size": 100px,
+          "width": 100px,
+          "height": 100px,
           "fromArtist": true,
           "isMedia": true,
           "time": "오후 08:36"
