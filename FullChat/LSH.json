@@ -83,8 +83,7 @@
           "content": "emo_hamboy_03",
           "fromArtist": true,
           "isMedia": true,
-          "width" : 100,
-          "height" : 100,
+          "background-size": 10px 10px, 
           "time": "오후 08:36"
       },
       {
