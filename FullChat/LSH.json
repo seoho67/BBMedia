@@ -580,15 +580,15 @@
         "time": "오전 02:46"
       },
       {
-        "content": "voice_1633974420000",
-        "fromArtist": true,
-        "isMedia": true,
-        "time": "오전 02:47"
-      },
-      {
         "content": "일본어도??!",
         "fromArtist": true,
         "isMedia": false,
+        "time": "오전 02:47"
+      },
+      {
+        "content": "voice_1633974420000",
+        "fromArtist": true,
+        "isMedia": true,
         "time": "오전 02:47"
       },
       {
