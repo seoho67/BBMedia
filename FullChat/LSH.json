@@ -1822,12 +1822,6 @@
         "time": "오후 01:01"
       },
       {
-        "content": "pic_1637221740000",
-        "fromArtist": true,
-        "isMedia": true,
-        "time": "오후 04:49"
-      },
-      {
         "content": "맞아....미역국...",
         "fromArtist": true,
         "isMedia": false,
@@ -1843,6 +1837,12 @@
         "content": "원본도 올린다구 어제 약속 했자나...",
         "fromArtist": true,
         "isMedia": false,
+        "time": "오후 04:49"
+      },
+      {
+        "content": "pic_1637221740000",
+        "fromArtist": true,
+        "isMedia": true,
         "time": "오후 04:49"
       },
       {
