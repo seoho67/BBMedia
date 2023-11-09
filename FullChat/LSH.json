@@ -2036,12 +2036,6 @@
   {
     "data": [
       {
-        "content": "pic_1637356680000",
-        "fromArtist": true,
-        "isMedia": true,
-        "time": "오전 06:18"
-      },
-      {
         "content": "@@@ 미세먼지 조심해 ㅜㅜ",
         "fromArtist": true,
         "isMedia": false,
@@ -2049,6 +2043,12 @@
       },
       {
         "content": "/hamboy.2/",
+        "fromArtist": true,
+        "isMedia": true,
+        "time": "오전 06:18"
+      },
+      {
+        "content": "pic_1637356680000",
         "fromArtist": true,
         "isMedia": true,
         "time": "오전 06:18"
@@ -2096,12 +2096,6 @@
         "time": "오후 04:27"
       },
       {
-        "content": "pic_1637396580000",
-        "fromArtist": true,
-        "isMedia": true,
-        "time": "오후 05:23"
-      },
-      {
         "content": "마자마자 음중의 딸 투문!!!!!",
         "fromArtist": true,
         "isMedia": false,
@@ -2111,6 +2105,12 @@
         "content": "ㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎ",
         "fromArtist": true,
         "isMedia": false,
+        "time": "오후 05:23"
+      },
+      {
+        "content": "pic_1637396580000",
+        "fromArtist": true,
+        "isMedia": true,
         "time": "오후 05:23"
       },
       {
@@ -2150,15 +2150,15 @@
         "time": "오후 05:31"
       },
       {
-        "content": "pic_1637397420000",
-        "fromArtist": true,
-        "isMedia": true,
-        "time": "오후 05:37"
-      },
-      {
         "content": "ㅋㅋㅋㅋㅋㅋ돈쭐내준다니...사장님 긴장하셔야할듯...!!!",
         "fromArtist": true,
         "isMedia": false,
+        "time": "오후 05:37"
+      },
+      {
+        "content": "pic_1637397420000",
+        "fromArtist": true,
+        "isMedia": true,
         "time": "오후 05:37"
       },
       {
