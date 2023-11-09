@@ -931,15 +931,15 @@
         "time": "오후 08:51"
       },
       {
-        "content": "voice_1634385240000",
-        "fromArtist": true,
-        "isMedia": true,
-        "time": "오후 08:54"
-      },
-      {
         "content": "음... 짧게!!!",
         "fromArtist": true,
         "isMedia": false,
+        "time": "오후 08:54"
+      },
+      {
+        "content": "voice_1634385240000",
+        "fromArtist": true,
+        "isMedia": true,
         "time": "오후 08:54"
       },
       {
