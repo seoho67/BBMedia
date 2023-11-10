@@ -4358,27 +4358,27 @@
         "time": "오전 12:26"
       },
       {
-        "content": "pic_1642865340000",
-        "fromArtist": true,
-        "isMedia": true,
-        "time": "오전 12:29"
-      },
-      {
-        "content": "voice_1642865340000",
-        "fromArtist": true,
-        "isMedia": true,
-        "time": "오전 12:29"
-      },
-      {
         "content": "전에 사진 한장!!",
         "fromArtist": true,
         "isMedia": false,
         "time": "오전 12:29"
       },
       {
+        "content": "pic_1642865340000",
+        "fromArtist": true,
+        "isMedia": true,
+        "time": "오전 12:29"
+      },
+      {
         "content": "과 음성메시지",
         "fromArtist": true,
         "isMedia": false,
+        "time": "오전 12:29"
+      },
+      {
+        "content": "voice_1642865340000",
+        "fromArtist": true,
+        "isMedia": true,
         "time": "오전 12:29"
       }
     ],
