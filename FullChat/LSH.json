@@ -2434,12 +2434,6 @@
         "time": "오전 04:48"
       },
       {
-        "content": "pic_1638388200000",
-        "fromArtist": true,
-        "isMedia": true,
-        "time": "오전 04:50"
-      },
-      {
         "content": "내놔..??ㅋㅋㅋㅋㅋㅋㅋ",
         "fromArtist": true,
         "isMedia": false,
@@ -2449,6 +2443,12 @@
         "content": "넹....",
         "fromArtist": true,
         "isMedia": false,
+        "time": "오전 04:50"
+      },
+      {
+        "content": "pic_1638388200000",
+        "fromArtist": true,
+        "isMedia": true,
         "time": "오전 04:50"
       },
       {
@@ -3355,15 +3355,15 @@
         "time": "오전 01:54"
       },
       {
-        "content": "pic_1640192460000",
-        "fromArtist": true,
-        "isMedia": true,
-        "time": "오전 02:01"
-      },
-      {
         "content": "아 인증샷.....미안...",
         "fromArtist": true,
         "isMedia": false,
+        "time": "오전 02:01"
+      },
+      {
+        "content": "pic_1640192460000",
+        "fromArtist": true,
+        "isMedia": true,
         "time": "오전 02:01"
       },
       {
@@ -3954,15 +3954,15 @@
         "time": "오후 04:40"
       },
       {
-        "content": "pic_1641195600000_1",
-        "fromArtist": true,
-        "isMedia": true,
-        "time": "오후 04:40"
-      },
-      {
         "content": "기카??일카??로 찍으면 요런느낌...??",
         "fromArtist": true,
         "isMedia": false,
+        "time": "오후 04:40"
+      },
+      {
+        "content": "pic_1641195600000_1",
+        "fromArtist": true,
+        "isMedia": true,
         "time": "오후 04:40"
       },
       {
