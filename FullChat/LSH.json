@@ -5722,15 +5722,15 @@
   {
     "data": [
       {
-        "content": "pic_1646005020000",
-        "fromArtist": true,
-        "isMedia": true,
-        "time": "오전 08:37"
-      },
-      {
         "content": "월요일 아침두 파이팅!!!!ㅎㅎㅎㅎㅎㅎ",
         "fromArtist": true,
         "isMedia": false,
+        "time": "오전 08:37"
+      },
+      {
+        "content": "pic_1646005020000",
+        "fromArtist": true,
+        "isMedia": true,
         "time": "오전 08:37"
       }
     ],
@@ -6180,15 +6180,15 @@
         "time": "오후 05:10"
       },
       {
-        "content": "pic_1646727300000",
-        "fromArtist": true,
-        "isMedia": true,
-        "time": "오후 05:15"
-      },
-      {
         "content": "투무니들 닮은 디지몬은...레레몬 알아..??",
         "fromArtist": true,
         "isMedia": false,
+        "time": "오후 05:15"
+      },
+      {
+        "content": "pic_1646727300000",
+        "fromArtist": true,
+        "isMedia": true,
         "time": "오후 05:15"
       },
       {
