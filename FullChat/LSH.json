@@ -20684,15 +20684,15 @@
         "time": "오전 03:17"
       },
       {
-        "content": "voice_1665425880000",
-        "fromArtist": true,
-        "isMedia": true,
-        "time": "오전 03:18"
-      },
-      {
         "content": "아 오랜만에!!!",
         "fromArtist": true,
         "isMedia": false,
+        "time": "오전 03:18"
+      },
+      {
+        "content": "voice_1665425880000",
+        "fromArtist": true,
+        "isMedia": true,
         "time": "오전 03:18"
       }
     ],
@@ -20742,15 +20742,15 @@
   {
     "data": [
       {
-        "content": "pic_1665683100000",
-        "fromArtist": true,
-        "isMedia": true,
-        "time": "오전 02:45"
-      },
-      {
         "content": "서호시!!!",
         "fromArtist": true,
         "isMedia": false,
+        "time": "오전 02:45"
+      },
+      {
+        "content": "pic_1665683100000",
+        "fromArtist": true,
+        "isMedia": true,
         "time": "오전 02:45"
       },
       {
