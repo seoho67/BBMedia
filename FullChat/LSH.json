@@ -16362,12 +16362,6 @@
         "time": "오전 10:22"
       },
       {
-        "content": "pic_1658885040000",
-        "fromArtist": true,
-        "isMedia": true,
-        "time": "오전 10:24"
-      },
-      {
         "content": "너무 탄수화물만 있다구??!!",
         "fromArtist": true,
         "isMedia": false,
@@ -16377,6 +16371,12 @@
         "content": "걱정마ㅎㅎㅎㅎㅎㅎ",
         "fromArtist": true,
         "isMedia": false,
+        "time": "오전 10:24"
+      },
+      {
+        "content": "pic_1658885040000",
+        "fromArtist": true,
+        "isMedia": true,
         "time": "오전 10:24"
       },
       {
@@ -16516,15 +16516,15 @@
   {
     "data": [
       {
-        "content": "pic_1659112800000",
-        "fromArtist": true,
-        "isMedia": true,
-        "time": "오전 01:40"
-      },
-      {
         "content": "연습 끝!!!!",
         "fromArtist": true,
         "isMedia": false,
+        "time": "오전 01:40"
+      },
+      {
+        "content": "pic_1659112800000",
+        "fromArtist": true,
+        "isMedia": true,
         "time": "오전 01:40"
       },
       {
@@ -16611,15 +16611,15 @@
         "time": "오전 01:16"
       },
       {
-        "content": "pic_1659246300000",
-        "fromArtist": true,
-        "isMedia": true,
-        "time": "오후 02:45"
-      },
-      {
         "content": "245~~~",
         "fromArtist": true,
         "isMedia": false,
+        "time": "오후 02:45"
+      },
+      {
+        "content": "pic_1659246300000",
+        "fromArtist": true,
+        "isMedia": true,
         "time": "오후 02:45"
       },
       {
@@ -16943,6 +16943,12 @@
         "time": "오후 06:28"
       },
       {
+        "content": "수거가 안된다던데..??? 내가 보내야 한데",
+        "fromArtist": true,
+        "isMedia": false,
+        "time": "오후 06:31"
+      },
+      {
         "content": "pic_1659778260000_0",
         "fromArtist": true,
         "isMedia": true,
@@ -16955,21 +16961,15 @@
         "time": "오후 06:31"
       },
       {
-        "content": "pic_1659778260000_2",
-        "fromArtist": true,
-        "isMedia": true,
-        "time": "오후 06:31"
-      },
-      {
-        "content": "수거가 안된다던데..??? 내가 보내야 한데",
-        "fromArtist": true,
-        "isMedia": false,
-        "time": "오후 06:31"
-      },
-      {
         "content": "이런아이가 왔거든...",
         "fromArtist": true,
         "isMedia": false,
+        "time": "오후 06:31"
+      },
+      {
+        "content": "pic_1659778260000_2",
+        "fromArtist": true,
+        "isMedia": true,
         "time": "오후 06:31"
       },
       {
@@ -17552,6 +17552,18 @@
   {
     "data": [
       {
+        "content": "목요일두 파이텡!!!!!!!",
+        "fromArtist": true,
+        "isMedia": false,
+        "time": "오전 06:13"
+      },
+      {
+        "content": "/hamboy.20/",
+        "fromArtist": true,
+        "isMedia": true,
+        "time": "오전 06:13"
+      },
+      {
         "content": "pic_1660770780000_0",
         "fromArtist": true,
         "isMedia": true,
@@ -17565,18 +17577,6 @@
       },
       {
         "content": "pic_1660770780000_2",
-        "fromArtist": true,
-        "isMedia": true,
-        "time": "오전 06:13"
-      },
-      {
-        "content": "목요일두 파이텡!!!!!!!",
-        "fromArtist": true,
-        "isMedia": false,
-        "time": "오전 06:13"
-      },
-      {
-        "content": "/hamboy.20/",
         "fromArtist": true,
         "isMedia": true,
         "time": "오전 06:13"
@@ -17683,7 +17683,7 @@
         "time": "오전 10:35"
       },
       {
-        "content": "아니 무시하는게 아니라...그렇지않나??? 요즘아이들은 디지몬 모르자나....우리처럼 ",
+        "content": "아니 무시하는게 아니라...그렇지않나??? 요즘아이들은 디지몬 모르자나....우리처럼 "선택받은아이들" 이 아니라구...",
         "fromArtist": true,
         "isMedia": false,
         "time": "오전 10:40"
@@ -17695,7 +17695,7 @@
         "time": "오전 10:50"
       },
       {
-        "content": "우와 그러네 난 ",
+        "content": "우와 그러네 난 "선택받은아이들" -> "선택받은아이돌" 로 진화했어...!!!!",
         "fromArtist": true,
         "isMedia": false,
         "time": "오전 10:58"
