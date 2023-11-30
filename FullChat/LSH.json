@@ -49545,7 +49545,7 @@
       {
         "content": "/폴라.6/",
         "fromArtist": true,
-        "isMedia": false,
+        "isMedia": true,
         "time": "오전 02:21"
       },
       {
@@ -49581,7 +49581,7 @@
       {
         "content": "/폴라.1/",
         "fromArtist": true,
-        "isMedia": false,
+        "isMedia": true,
         "time": "오후 12:23"
       }
     ],
@@ -49687,7 +49687,7 @@
       {
         "content": "/폴라.1/",
         "fromArtist": true,
-        "isMedia": false,
+        "isMedia": true,
         "time": "오후 07:40"
       },
       {
@@ -49699,7 +49699,7 @@
       {
         "content": "/폴라.10/",
         "fromArtist": true,
-        "isMedia": false,
+        "isMedia": true,
         "time": "오후 07:45"
       },
       {
@@ -49715,15 +49715,15 @@
         "time": "오후 08:00"
       },
       {
-        "content": "pic_1695812400000_1",
-        "fromArtist": true,
-        "isMedia": true,
-        "time": "오후 08:00"
-      },
-      {
         "content": "우선 하나!",
         "fromArtist": true,
         "isMedia": false,
+        "time": "오후 08:00"
+      },
+      {
+        "content": "pic_1695812400000_1",
+        "fromArtist": true,
+        "isMedia": true,
         "time": "오후 08:00"
       },
       {
@@ -49928,7 +49928,7 @@
       {
         "content": "/캐탱.9/",
         "fromArtist": true,
-        "isMedia": false,
+        "isMedia": true,
         "time": "오후 10:05"
       }
     ],
