@@ -49604,7 +49604,7 @@
       {
         "content": "/크앙이와 알알이.18/",
         "fromArtist": true,
-        "isMedia": false,
+        "isMedia": true,
         "time": "오전 07:13"
       },
       {
@@ -49646,7 +49646,7 @@
       {
         "content": "/크앙이와 알알이.1/",
         "fromArtist": true,
-        "isMedia": false,
+        "isMedia": true,
         "time": "오후 11:38"
       },
       {
@@ -49675,7 +49675,7 @@
       {
         "content": "/크앙이와 알알이.9/",
         "fromArtist": true,
-        "isMedia": false,
+        "isMedia": true,
         "time": "오전 03:07"
       },
       {
@@ -49770,7 +49770,7 @@
       {
         "content": "/크앙이와 알알이.19/",
         "fromArtist": true,
-        "isMedia": false,
+        "isMedia": true,
         "time": "오후 07:06"
       }
     ],
