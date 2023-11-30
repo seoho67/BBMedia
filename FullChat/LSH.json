@@ -20973,12 +20973,6 @@
         "time": "오전 04:13"
       },
       {
-        "content": "voice_1666120440000",
-        "fromArtist": true,
-        "isMedia": true,
-        "time": "오전 04:14"
-      },
-      {
         "content": "/hamboy.8/",
         "fromArtist": true,
         "isMedia": true,
@@ -20988,6 +20982,12 @@
         "content": "아무튼 이제 잘거야!!!!!ㅎㅎㅎㅎㅎㅎ 잘자!!!",
         "fromArtist": true,
         "isMedia": false,
+        "time": "오전 04:14"
+      },
+      {
+        "content": "voice_1666120440000",
+        "fromArtist": true,
+        "isMedia": true,
         "time": "오전 04:14"
       },
       {
@@ -21440,15 +21440,15 @@
         "time": "오전 02:24"
       },
       {
-        "content": "pic_1666806900000",
-        "fromArtist": true,
-        "isMedia": true,
-        "time": "오전 02:55"
-      },
-      {
         "content": "아 그리구....익숙한 투문 향기가 나더라고...??? 근데 옆에..!!!",
         "fromArtist": true,
         "isMedia": false,
+        "time": "오전 02:55"
+      },
+      {
+        "content": "pic_1666806900000",
+        "fromArtist": true,
+        "isMedia": true,
         "time": "오전 02:55"
       },
       {
@@ -21866,18 +21866,6 @@
         "time": "오후 12:06"
       },
       {
-        "content": "pic_1667474040000_0",
-        "fromArtist": true,
-        "isMedia": true,
-        "time": "오후 08:14"
-      },
-      {
-        "content": "pic_1667474040000_1",
-        "fromArtist": true,
-        "isMedia": true,
-        "time": "오후 08:14"
-      },
-      {
         "content": "흠....사진을 바꿔볼까하는데!!!!!",
         "fromArtist": true,
         "isMedia": false,
@@ -21896,9 +21884,21 @@
         "time": "오후 08:14"
       },
       {
+        "content": "pic_1667474040000_0",
+        "fromArtist": true,
+        "isMedia": true,
+        "time": "오후 08:14"
+      },
+      {
         "content": "2번",
         "fromArtist": true,
         "isMedia": false,
+        "time": "오후 08:14"
+      },
+      {
+        "content": "pic_1667474040000_1",
+        "fromArtist": true,
+        "isMedia": true,
         "time": "오후 08:14"
       },
       {
@@ -22092,15 +22092,15 @@
         "time": "오전 12:31"
       },
       {
-        "content": "pic_1667576160000",
-        "fromArtist": true,
-        "isMedia": true,
-        "time": "오전 12:36"
-      },
-      {
         "content": "응 안추워!!!",
         "fromArtist": true,
         "isMedia": false,
+        "time": "오전 12:36"
+      },
+      {
+        "content": "pic_1667576160000",
+        "fromArtist": true,
+        "isMedia": true,
         "time": "오전 12:36"
       },
       {
@@ -22134,15 +22134,15 @@
         "time": "오전 12:46"
       },
       {
-        "content": "pic_1667649240000",
-        "fromArtist": true,
-        "isMedia": true,
-        "time": "오후 08:54"
-      },
-      {
         "content": "끝났다아아아아ㅎㅎㅎㅎㅎ",
         "fromArtist": true,
         "isMedia": false,
+        "time": "오후 08:54"
+      },
+      {
+        "content": "pic_1667649240000",
+        "fromArtist": true,
+        "isMedia": true,
         "time": "오후 08:54"
       },
       {
@@ -22348,15 +22348,15 @@
         "time": "오후 10:40"
       },
       {
-        "content": "pic_1667828460000",
-        "fromArtist": true,
-        "isMedia": true,
-        "time": "오후 10:41"
-      },
-      {
         "content": "보내기 안눌렀어...",
         "fromArtist": true,
         "isMedia": false,
+        "time": "오후 10:41"
+      },
+      {
+        "content": "pic_1667828460000",
+        "fromArtist": true,
+        "isMedia": true,
         "time": "오후 10:41"
       },
       {
@@ -22580,12 +22580,6 @@
         "time": "오후 10:14"
       },
       {
-        "content": "pic_1667999940000",
-        "fromArtist": true,
-        "isMedia": true,
-        "time": "오후 10:19"
-      },
-      {
         "content": "/hamboy.4/",
         "fromArtist": true,
         "isMedia": true,
@@ -22595,6 +22589,12 @@
         "content": "아무튼 맛있게 잘 먹었다아아아아아",
         "fromArtist": true,
         "isMedia": false,
+        "time": "오후 10:19"
+      },
+      {
+        "content": "pic_1667999940000",
+        "fromArtist": true,
+        "isMedia": true,
         "time": "오후 10:19"
       },
       {
@@ -22777,12 +22777,6 @@
         "time": "오후 10:41"
       },
       {
-        "content": "pic_1668174180000",
-        "fromArtist": true,
-        "isMedia": true,
-        "time": "오후 10:43"
-      },
-      {
         "content": "하나더?!?!?!?",
         "fromArtist": true,
         "isMedia": false,
@@ -22790,6 +22784,12 @@
       },
       {
         "content": "/핑코.19/",
+        "fromArtist": true,
+        "isMedia": true,
+        "time": "오후 10:43"
+      },
+      {
+        "content": "pic_1668174180000",
         "fromArtist": true,
         "isMedia": true,
         "time": "오후 10:43"
@@ -22950,6 +22950,12 @@
         "time": "오후 09:17"
       },
       {
+        "content": "짜란 씻구옴!!!!",
+        "fromArtist": true,
+        "isMedia": false,
+        "time": "오후 11:51"
+      },
+      {
         "content": "pic_1668264660000_0",
         "fromArtist": true,
         "isMedia": true,
@@ -22959,12 +22965,6 @@
         "content": "pic_1668264660000_1",
         "fromArtist": true,
         "isMedia": true,
-        "time": "오후 11:51"
-      },
-      {
-        "content": "짜란 씻구옴!!!!",
-        "fromArtist": true,
-        "isMedia": false,
         "time": "오후 11:51"
       },
       {
@@ -23485,7 +23485,7 @@
         "time": "오후 10:49"
       },
       {
-        "content": "🌛 : 떠호야 떠호야 요새 유행하는 n이랑 s랑 구별법이래\n\n",
+        "content": "🌛 : 떠호야 떠호야 요새 유행하는 n이랑 s랑 구별법이래\n\n'말이 바에 들어가서 바텐더에게 뭐라고 했게?'",
         "fromArtist": true,
         "isMedia": false,
         "time": "오후 11:32"
@@ -23729,12 +23729,6 @@
         "time": "오후 11:52"
       },
       {
-        "content": "pic_1668955980000",
-        "fromArtist": true,
-        "isMedia": true,
-        "time": "오후 11:53"
-      },
-      {
         "content": "근데 지금보니 쌩얼사진은 마음에 들지않아 ...",
         "fromArtist": true,
         "isMedia": false,
@@ -23744,6 +23738,12 @@
         "content": "기각",
         "fromArtist": true,
         "isMedia": false,
+        "time": "오후 11:53"
+      },
+      {
+        "content": "pic_1668955980000",
+        "fromArtist": true,
+        "isMedia": true,
         "time": "오후 11:53"
       },
       {
