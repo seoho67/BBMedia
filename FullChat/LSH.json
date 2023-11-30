@@ -23313,9 +23313,9 @@
   {
     "data": [
       {
-        "content": "bubble LIVE",
+        "content": "bubbleLIVE_221105",
         "fromArtist": true,
-        "isMedia": false,
+        "isMedia": true,
         "time": "오후 11:04"
       },
       {
@@ -37462,9 +37462,9 @@
         "time": "오후 02:11"
       },
       {
-        "content": "bubble LIVE",
+        "content": "bubbleLIVE_230319",
         "fromArtist": true,
-        "isMedia": false,
+        "isMedia": true,
         "time": "오후 02:12"
       },
       {
@@ -44180,9 +44180,9 @@
   {
     "data": [
       {
-        "content": "bubble LIVE",
+        "content": "bubbleLIVE_230704_0",
         "fromArtist": true,
-        "isMedia": false,
+        "isMedia": true,
         "time": "오전 12:07"
       },
       {
@@ -44198,9 +44198,9 @@
         "time": "오전 12:08"
       },
       {
-        "content": "bubble LIVE",
+        "content": "bubbleLIVE_230704_1",
         "fromArtist": true,
-        "isMedia": false,
+        "isMedia": true,
         "time": "오전 12:09"
       },
       {
